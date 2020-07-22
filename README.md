@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Howdy 👋, I'm Tony</h1>
+<h3 align="center">An ordinary civilian and gamer from Taiwan🇹🇼</h3>
 
-<!--
-**tpai/tpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎮 I have ![PS4 badge](https://img.shields.io/badge/PlayStation4-yes-green.svg)
+![NS badge](https://img.shields.io/badge/Nintendo%20Switch-yes-green.svg)
+![Xbox badge](https://img.shields.io/badge/Xbox-no-red.svg)
 
-Here are some ideas to get you started:
+- ❤️ I'm a fan of **Souls Series**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m currently playing **Witcher 3**
+
+- ➡️ My next game is **Dark Souls 3**
+
+- 🏰 I've played
+  - Nioh
+  - Persona 5
+  - Dark Souls: Remastered
+  - Sekiro
+  - Ys VIII: Lacrimosa of Dana
+  - Bloodborne: Old Hunters
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tpai&show_icons=true" alt="tpai" /> </p>
