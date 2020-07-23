@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Tony</h1>
-<h3 align="center">An ordinary civilian and gamer from Taiwan🇹🇼</h3>
+<h3 align="center">An ordinary <strike>developer</strike> gamer from Taiwan🇹🇼</h3>
 
 - 🎮 I have ![PS4 badge](https://img.shields.io/badge/PlayStation4-yes-green.svg)
 ![NS badge](https://img.shields.io/badge/Nintendo%20Switch-yes-green.svg)
