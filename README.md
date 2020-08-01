@@ -7,16 +7,22 @@
 
 - ❤️ I'm a fan of **Souls Series**
 
-- 👀 I’m currently playing **Witcher 3**
+- ⚔️ I’m currently playing **The Witcher 3: Wild Hunt**
 
-- ➡️ My next game is **Dark Souls 3**
-
-- 🏰 I've played
-  - Nioh
-  - Persona 5
-  - Dark Souls: Remastered
-  - Sekiro
-  - Ys VIII: Lacrimosa of Dana
-  - Bloodborne: Old Hunters
+- 🏰 My Game List
+  - [ ] Life is strange: Before the storm
+  - [ ] Detroit Become Human
+  - [ ] Odin Sphere
+  - [ ] Nioh 2
+  - [ ] Ghost of Tsushima
+  - [ ] Dark Souls 3
+  - [ ] The Witcher 3: Wild Hunt
+  - [x] Bloodborne: Old Hunters
+  - [x] Ys VIII: Lacrimosa of Dana
+  - [x] Sekiro
+  - [x] Dark Souls: Remastered
+  - [x] Kiwami 2
+  - [x] Nioh
+  - [x] Persona 5
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tpai&show_icons=true" alt="tpai" /> </p>
