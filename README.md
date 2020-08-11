@@ -26,3 +26,5 @@
   - [x] Persona 5
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tpai&show_icons=true" alt="tpai" /> </p>
+
+[![hackmd-github-sync-badge](https://hackmd.io/CS5hjQNdQeKyYW3b__aEEQ/badge)](https://hackmd.io/CS5hjQNdQeKyYW3b__aEEQ)
