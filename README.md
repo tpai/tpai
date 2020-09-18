@@ -10,13 +10,13 @@
 - ⚔️ I’m currently playing **The Witcher 3: Wild Hunt**
 
 - 🏰 My Game List
-  - [ ] Life is strange: Before the storm
-  - [ ] Detroit Become Human
-  - [ ] Odin Sphere
   - [ ] Nioh 2
   - [ ] Ghost of Tsushima
   - [ ] Dark Souls 3
-  - [ ] The Witcher 3: Wild Hunt
+  - [ ] Odin Sphere
+  - [ ] Detroit Become Human
+  - [ ] Life is strange: Before the storm
+  - [x] The Witcher 3: Wild Hunt
   - [x] Bloodborne: Old Hunters
   - [x] Ys VIII: Lacrimosa of Dana
   - [x] Sekiro
