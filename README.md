@@ -27,4 +27,6 @@
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tpai&show_icons=true" alt="tpai" /> </p>
 
+<a href="https://data.typeracer.com/pit/profile?user=tonypai&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=tonypai" border="0" alt="TypeRacer.com scorecard for user tonypai"/></a>
+
 [![hackmd-github-sync-badge](https://hackmd.io/CS5hjQNdQeKyYW3b__aEEQ/badge)](https://hackmd.io/CS5hjQNdQeKyYW3b__aEEQ)
