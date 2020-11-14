@@ -14,8 +14,8 @@
   - [ ] Ghost of Tsushima
   - [ ] Dark Souls 3
   - [ ] Odin Sphere
-  - [ ] Detroit Become Human
   - [ ] Life is strange: Before the storm
+  - [x] Detroit Become Human
   - [x] The Witcher 3: Wild Hunt
   - [x] Bloodborne: Old Hunters
   - [x] Ys VIII: Lacrimosa of Dana
