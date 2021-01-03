@@ -14,8 +14,8 @@
   - [ ] Ghost of Tsushima
   - [ ] Dark Souls 3
   - [ ] Odin Sphere
-  - [ ] Rise of the Tomb Raider
-  - [ ] Life is strange: Before the storm
+  - [x] Rise of the Tomb Raider
+  - [x] Life is strange: Before the storm
   - [x] Detroit Become Human
   - [x] The Witcher 3: Wild Hunt
   - [x] Bloodborne: Old Hunters
