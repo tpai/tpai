@@ -4,16 +4,16 @@
 - 🎮 I have ![PS4 badge](https://img.shields.io/badge/PlayStation4-yes-green.svg)
 ![NS badge](https://img.shields.io/badge/Nintendo%20Switch-yes-green.svg)
 ![Xbox badge](https://img.shields.io/badge/Xbox-no-red.svg)
-
 - ❤️ I'm a fan of **Souls Series**
-
-- ⚔️ I’m currently playing **The Witcher 3: Wild Hunt**
-
-- 🏰 My Game List
+- 👀 Waiting for PS5 Pro
+- 🏰 Game List
+  - [ ] Crown Trick
   - [ ] Nioh 2
   - [ ] Ghost of Tsushima
   - [ ] Dark Souls 3
   - [ ] Odin Sphere
+  - [ ] The Legend of Zelda: Link's Awakening
+  - [ ] Blasphemous
   - [x] Rise of the Tomb Raider
   - [x] Life is strange: Before the storm
   - [x] Detroit Become Human
