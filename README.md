@@ -12,8 +12,9 @@
   - [ ] Ghost of Tsushima
   - [ ] Dark Souls 3
   - [ ] Odin Sphere
-  - [ ] The Legend of Zelda: Link's Awakening
   - [ ] Blasphemous
+  - [ ] Luigi's Mansion 3
+  - [x] The Legend of Zelda: Link's Awakening
   - [x] Rise of the Tomb Raider
   - [x] Life is strange: Before the storm
   - [x] Detroit Become Human
