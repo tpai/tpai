@@ -13,6 +13,7 @@
   - [ ] Dark Souls 3
   - [ ] Odin Sphere
   - [ ] Blasphemous
+  - [x] Shadow of the Tomb Raider
   - [x] Luigi's Mansion 3
   - [x] The Legend of Zelda: Link's Awakening
   - [x] Rise of the Tomb Raider
