@@ -12,6 +12,8 @@
   - [ ] Ghost of Tsushima
   - [ ] Dark Souls 3
   - [ ] Odin Sphere
+  - [x] Days Gone
+  - [x] Horizon Zero Dawn
   - [x] Blasphemous
   - [x] Shadow of the Tomb Raider
   - [x] Luigi's Mansion 3
