@@ -11,6 +11,7 @@
   - [ ] Nioh 2
   - [ ] Ghost of Tsushima
   - [ ] Dark Souls 3
+  - [ ] Batman: Arkham Knight
   - [ ] Odin Sphere
   - [x] Days Gone
   - [x] Horizon Zero Dawn
@@ -30,7 +31,7 @@
   - [x] Nioh
   - [x] Persona 5
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tpai&show_icons=true" alt="tpai" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tpai&theme=dark&show_icons=true" alt="tpai" /> </p>
 
 <a href="https://data.typeracer.com/pit/profile?user=tonypai&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=tonypai" border="0" alt="TypeRacer.com scorecard for user tonypai"/></a>
 
