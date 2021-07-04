@@ -11,8 +11,8 @@
   - [ ] Nioh 2
   - [ ] Ghost of Tsushima
   - [ ] Dark Souls 3
-  - [ ] Batman: Arkham Knight
   - [ ] Odin Sphere
+  - [x] Batman: Arkham Knight
   - [x] Days Gone
   - [x] Horizon Zero Dawn
   - [x] Blasphemous
