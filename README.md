@@ -4,16 +4,16 @@
 ![NS badge](https://img.shields.io/badge/Nintendo%20Switch-yes-green.svg)
 ![Xbox badge](https://img.shields.io/badge/Xbox-no-red.svg)
 
-- [ ] Final Fantasy VII Remake
 - [ ] Bloodstained
 - [ ] Control
 - [ ] Uncharted 4: A Thief's End
 - [ ] Crown Trick
 - [ ] Nioh 2
 - [ ] Ghost of Tsushima
-- [ ] Dark Souls 3
-- [ ] Super Mario 3D World + Bowser's Fury
+- [ ] Final Fantasy VII Remake
 - [ ] Thronebreaker: The Witcher Tales
+- [x] Super Mario 3D World + Bowser's Fury
+- [x] Dark Souls 3
 - [x] Odin Sphere
 - [x] Batman: Arkham Knight
 - [x] Days Gone
