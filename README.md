@@ -12,6 +12,7 @@
 - [ ] Ghost of Tsushima
 - [ ] Final Fantasy VII Remake
 - [ ] Thronebreaker: The Witcher Tales
+- [x] Middle-earth: Shadow of War
 - [x] Super Mario 3D World + Bowser's Fury
 - [x] Dark Souls 3
 - [x] Odin Sphere
