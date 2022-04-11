@@ -4,14 +4,17 @@
 ![NS badge](https://img.shields.io/badge/Nintendo%20Switch-yes-green.svg)
 ![Xbox badge](https://img.shields.io/badge/Xbox-no-red.svg)
 
-- [ ] Bloodstained
-- [ ] Control
 - [ ] Uncharted 4: A Thief's End
+- [ ] Persona 5 Scramble: The Phantom Strikers
 - [ ] Crown Trick
-- [ ] Nioh 2
 - [ ] Ghost of Tsushima
-- [ ] Final Fantasy VII Remake
+- [ ] Dragon's Crown Pro
+- [ ] It takes two
+- [ ] Kena: Bridge of Spirits
+- [ ] Red Dead Redemption 2
 - [ ] Thronebreaker: The Witcher Tales
+- [ ] Nioh 2
+- [x] Final Fantasy VII Remake
 - [x] Middle-earth: Shadow of War
 - [x] Super Mario 3D World + Bowser's Fury
 - [x] Dark Souls 3
