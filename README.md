@@ -11,9 +11,10 @@
 - [ ] Dragon's Crown Pro
 - [ ] It takes two
 - [ ] Kena: Bridge of Spirits
-- [ ] Red Dead Redemption 2
-- [ ] Thronebreaker: The Witcher Tales
-- [ ] Nioh 2
+- [ ] Grand Theft Auto V
+- [x] Thronebreaker: The Witcher Tales
+- [x] Red Dead Redemption 2
+- [x] Nioh 2
 - [x] Final Fantasy VII Remake
 - [x] Middle-earth: Shadow of War
 - [x] Super Mario 3D World + Bowser's Fury
