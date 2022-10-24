@@ -12,6 +12,8 @@
 - [ ] It takes two
 - [ ] Kena: Bridge of Spirits
 - [ ] Grand Theft Auto V
+- [ ] The Legend of Tianding
+- [ ] Octopath Traveler
 - [x] Thronebreaker: The Witcher Tales
 - [x] Red Dead Redemption 2
 - [x] Nioh 2
