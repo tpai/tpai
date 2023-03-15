@@ -7,13 +7,18 @@
 - [ ] Uncharted 4: A Thief's End
 - [ ] Persona 5 Scramble: The Phantom Strikers
 - [ ] Crown Trick
-- [ ] Ghost of Tsushima
 - [ ] Dragon's Crown Pro
 - [ ] It takes two
 - [ ] Kena: Bridge of Spirits
-- [ ] The Legend of Tianding
 - [ ] Octopath Traveler
-- [ ] Cyberpunk 2077
+- [ ] BattleField 1
+- [ ] Diablo IV
+- [ ] Horizon Forbidden West
+- [ ] Ghost of Tsushima
+- [x] Yakuza: Like a dragon
+- [x] The Witcher 3: Hearts of Stone
+- [x] Cyberpunk 2077
+- [x] The Legend of Tianding
 - [x] Grand Theft Auto V
 - [x] Thronebreaker: The Witcher Tales
 - [x] Red Dead Redemption 2
@@ -38,7 +43,7 @@
 - [x] Ys VIII: Lacrimosa of Dana
 - [x] Sekiro
 - [x] Dark Souls: Remastered
-- [x] Kiwami 2
+- [x] Yakuza: Kiwami 2
 - [x] Nioh
 - [x] Persona 5
 
