@@ -8,13 +8,13 @@
 - [ ] Persona 5 Scramble: The Phantom Strikers
 - [ ] Crown Trick
 - [ ] Dragon's Crown Pro
-- [ ] It takes two
-- [ ] Kena: Bridge of Spirits
 - [ ] Octopath Traveler
-- [ ] BattleField 1
-- [ ] Diablo IV
 - [ ] Horizon Forbidden West
-- [ ] Ghost of Tsushima
+- [ ] Kena: Bridge of Spirits
+- [ ] It takes two
+- [x] Ghost of Tsushima
+- [x] BattleField 1
+- [x] Diablo IV
 - [x] Yakuza: Like a dragon
 - [x] The Witcher 3: Hearts of Stone
 - [x] Cyberpunk 2077
