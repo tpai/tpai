@@ -12,6 +12,9 @@
 - [ ] Horizon Forbidden West
 - [ ] Kena: Bridge of Spirits
 - [ ] It takes two
+- [x] The Walking Dead: A New Frontier
+- [x] The Elder Scrolls V: Skyrim
+- [x] Strange Brigade
 - [x] Ghost of Tsushima
 - [x] BattleField 1
 - [x] Diablo IV
