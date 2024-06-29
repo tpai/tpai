@@ -33,10 +33,11 @@
 | ✅  | Pokémon: Let's Go, Eevee!                  | Game Freak                                     | Action RPG                 |
 |     | Horizon Forbidden West                     | Guerrilla Games                                | Action RPG, Open World     |
 | ✅  | Horizon Zero Dawn                          | Guerrilla Games                                | Action RPG, Open World     |
-|     | It Takes Two                               | Hazelight Studios                              | Cooperative Adventure      |
+| ✅  | It Takes Two                               | Hazelight Studios                              | Cooperative Adventure      |
 | ✅  | Middle-earth: Shadow of War                | Monolith Productions                           | Action RPG                 |
 |     | Uncharted 4: A Thief’s End                 | Naughty Dog                                    | Action-Adventure           |
 | ✅  | The Last of Us                             | Naughty Dog                                    | Action-Adventure           |
+|     | Luigi’s Mansion 2 HD                       | Next Level Games                               | Action-Adventure           |
 | ✅  | Luigi’s Mansion 3                          | Next Level Games                               | Action-Adventure           |
 |     | Crown Trick                                | Next Studios                                   | Roguelike, Dungeon Crawler |
 | ✅  | Ys VIII: Lacrimosa of Dana                 | Nihon Falcom                                   | Action RPG                 |
