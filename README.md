@@ -8,6 +8,7 @@
 |:--- | ------------------------------------------ | ---------------------------------------------- | -------------------------- |
 |     | Persona 5 Scramble: The Phantom Strikers   | Atlus                                          | Action RPG                 |
 | ✅  | Persona 5                                  | Atlus                                          | JRPG                       |
+|     | Hogwarts Legacy                            | Avalanche                                      | Action-Adventure           |
 | ✅  | Days Gone                                  | Bend Studio                                    | Action-Adventure           |
 | ✅  | The Elder Scrolls V: Skyrim                | Bethesda Game Studios                          | Action RPG, Open World     |
 | ✅  | Diablo IV                                  | Blizzard Entertainment                         | Action RPG                 |
@@ -23,6 +24,7 @@
 | ✅  | Battlefield 1                              | EA DICE                                        | First-Person Shooter       |
 | ✅  | Shadow of the Tomb Raider                  | Eidos-Montreal                                 | Action-Adventure           |
 | ✅  | Kena: Bridge of Spirits                    | Ember Lab                                      | Action-Adventure           |
+|     | Elden Ring                                 | FromSoftware                                   | Action RPG                 |
 | ✅  | Dark Souls 3                               | FromSoftware                                   | Action RPG                 |
 | ✅  | Bloodborne: The Old Hunters                | FromSoftware                                   | Action RPG                 |
 | ✅  | Dark Souls: Remastered                     | FromSoftware                                   | Action RPG                 |
@@ -31,13 +33,14 @@
 |     | Pokémon Legends: Arceus                    | Game Freak                                     | Action RPG                 |
 | ✅  | Pokémon Sword & Shield                     | Game Freak                                     | Action RPG                 |
 | ✅  | Pokémon: Let's Go, Eevee!                  | Game Freak                                     | Action RPG                 |
-|     | Horizon Forbidden West                     | Guerrilla Games                                | Action RPG, Open World     |
+| ✅  | Horizon Forbidden West                     | Guerrilla Games                                | Action RPG, Open World     |
 | ✅  | Horizon Zero Dawn                          | Guerrilla Games                                | Action RPG, Open World     |
 | ✅  | It Takes Two                               | Hazelight Studios                              | Cooperative Adventure      |
 | ✅  | Middle-earth: Shadow of War                | Monolith Productions                           | Action RPG                 |
+|     | Minecraft: Legends                         | Mojang Studios                                 | Action-Strategy            |
 |     | Uncharted 4: A Thief’s End                 | Naughty Dog                                    | Action-Adventure           |
 | ✅  | The Last of Us                             | Naughty Dog                                    | Action-Adventure           |
-|     | Luigi’s Mansion 2 HD                       | Next Level Games                               | Action-Adventure           |
+| ✅  | Luigi’s Mansion 2 HD                       | Next Level Games                               | Action-Adventure           |
 | ✅  | Luigi’s Mansion 3                          | Next Level Games                               | Action-Adventure           |
 |     | Crown Trick                                | Next Studios                                   | Roguelike, Dungeon Crawler |
 | ✅  | Ys VIII: Lacrimosa of Dana                 | Nihon Falcom                                   | Action RPG                 |
