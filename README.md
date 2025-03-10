@@ -1,12 +1,10 @@
-<h1 align="center">🎮</h1>
-
 ![PS4 badge](https://img.shields.io/badge/PlayStation4-yes-green.svg)
 ![NS badge](https://img.shields.io/badge/Nintendo%20Switch-yes-green.svg)
 ![Xbox badge](https://img.shields.io/badge/Xbox-no-red.svg)
 
 |     | Game Title                                  | Company Name                                   | Genre                      |
 |:--- | ------------------------------------------- | ---------------------------------------------- | -------------------------- |
-|     | Persona 5 Scramble: The Phantom Strikers    | Atlus                                          | JRPG                       |
+| ✅  | Persona 5 Scramble: The Phantom Strikers    | Atlus                                          | JRPG                       |
 | ✅  | Persona 5                                   | Atlus                                          | JRPG                       |
 | ✅  | Hogwarts Legacy                             | Avalanche                                      | Action-Adventure           |
 | ✅  | Days Gone                                   | Bend Studio                                    | Action-Adventure           |
@@ -74,13 +72,3 @@
 | ✅  | Blasphemous                                 | The Game Kitchen                               | Action-Platformer          |
 | ✅  | Odin Sphere                                 | Vanillaware                                    | Action RPG                 |
 | ✅  | Dragon’s Crown Pro                          | Vanillaware                                    | Action RPG                 |
-
-<h1 align="center">💻</h1>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tpai&theme=dark&show_icons=true" alt="tpai" /> </p>
-
-<a href="https://data.typeracer.com/pit/profile?user=tonypai&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=tonypai" border="0" alt="TypeRacer.com scorecard for user tonypai"/></a>
-
----
-
-[![hackmd-github-sync-badge](https://hackmd.io/CS5hjQNdQeKyYW3b__aEEQ/badge)](https://hackmd.io/CS5hjQNdQeKyYW3b__aEEQ)
