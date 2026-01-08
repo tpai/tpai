@@ -11,8 +11,9 @@
 | ✅  | The Elder Scrolls V: Skyrim                 | Bethesda Game Studios                          | Action RPG, Open World     |
 | ✅  | Diablo IV                                   | Blizzard Entertainment                         | Action RPG                 |
 | ✅  | Dragon's Dogma Dark Arisen                  | Capcom                                         | Action RPG                 |
+| ✅  | Resident Evil 4 VR                          | Capcom                                         | Action-Adventure           |
 | ✅  | The Witcher 3: Hearts of Stone              | CD Projekt Red                                 | Action RPG, Open World     |
-|     | Cyberpunk 2077: Phantom Liberty             | CD Projekt Red                                 | Action RPG, Open World     |
+| ✅  | Cyberpunk 2077: Phantom Liberty             | CD Projekt Red                                 | Action RPG, Open World     |
 | ✅  | Cyberpunk 2077                              | CD Projekt Red                                 | Action RPG, Open World     |
 | ✅  | The Witcher 3: Wild Hunt                    | CD Projekt Red                                 | Action RPG, Open World     |
 | ✅  | Thronebreaker: The Witcher Tales            | CD Projekt Red                                 | Card-Based RPG             |
@@ -23,6 +24,7 @@
 | ✅  | Shadow of the Tomb Raider                   | Eidos-Montreal                                 | Action-Adventure           |
 | ✅  | Kena: Bridge of Spirits                     | Ember Lab                                      | Action-Adventure           |
 |     | The Legend of Heroes: Trails into Reverie   | Falcom                                         | JRPG                       |
+| ✅  | The Room VR                                 | Fireproof Games                                | Adventure                  |
 |     | Elden Ring: Shadow of the Erdtree           | FromSoftware                                   | Action RPG                 |
 | ✅  | Elden Ring                                  | FromSoftware                                   | Action RPG                 |
 | ✅  | Dark Souls 3                                | FromSoftware                                   | Action RPG                 |
@@ -42,7 +44,7 @@
 | ✅  | The Last of Us                              | Naughty Dog                                    | Action-Adventure           |
 | ✅  | Luigi’s Mansion 2 HD                        | Next Level Games                               | Action-Adventure           |
 | ✅  | Luigi’s Mansion 3                           | Next Level Games                               | Action-Adventure           |
-|     | Crown Trick                                 | Next Studios                                   | Roguelike, Dungeon Crawler |
+|     | Crown Trick                                 | Next Studios                                   | Roguelike |
 | ✅  | Ys VIII: Lacrimosa of Dana                  | Nihon Falcom                                   | Action RPG                 |
 |     | Pikmin 4                                    | Nintendo                                       | Real-Time Strategy         |
 | ✅  | The Legend of Zelda: Link’s Awakening       | Nintendo                                       | Action-Adventure           |
@@ -64,7 +66,7 @@
 | ✅  | Dragon Quest Builders                       | Square Enix                                    | Block-Building RPG         |
 | ✅  | Dragon Quest Builders 2                     | Square Enix                                    | Block-Building RPG         |
 | ✅  | Final Fantasy VII Remake                    | Square Enix                                    | Action RPG                 |
-|     | Octopath Traveler                           | Square Enix                                    | JRPG                       |
+| ✅  | Octopath Traveler                           | Square Enix                                    | JRPG                       |
 | ✅  | Ghost of Tsushima                           | Sucker Punch Productions                       | Action-Adventure           |
 | ✅  | Nioh 2                                      | Team Ninja                                     | Action RPG                 |
 | ✅  | Nioh                                        | Team Ninja                                     | Action RPG                 |
