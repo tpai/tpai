@@ -1,7 +1,7 @@
 ![PS4 badge](https://img.shields.io/badge/PlayStation4-yes-green.svg)
 ![NS badge](https://img.shields.io/badge/Nintendo%20Switch-yes-green.svg)
 ![Xbox badge](https://img.shields.io/badge/Xbox-no-red.svg)
-
+************************************************************************************************************************************************************
 - 📁 [Games I've played](https://tonypa.in/games/)
 - 🎮 [I made some games](https://tonypai.itch.io/)
 - 🃏 [Doge Deck](https://www.tonypa.in/dogedeck/)
