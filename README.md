@@ -1,14 +1,22 @@
-![PS4 badge](https://img.shields.io/badge/PlayStation4-yes-green.svg)
-![NS badge](https://img.shields.io/badge/Nintendo%20Switch-yes-green.svg)
-![Xbox badge](https://img.shields.io/badge/Xbox-no-red.svg)
-************************************************************************************************************************************************************
-- 📁 [Games I've played](https://tonypa.in/games/)
-- 🎮 [I made some games](https://tonypai.itch.io/)
-- 🃏 [Doge Deck](https://www.tonypa.in/dogedeck/)
-- 💬 [Idiomthon](https://idiomthon.tonypa.in)
-- 🐢 [Turtle Soup](https://turtle-soup.tonypa.in)
-- ⚾ [Throw and Hit](https://throw-and-hit.tonypa.in)
-- 🗺️ [Taiwan Travel Level](https://travel.tonypa.in/)
-- ⚡ [Keyboard Generator](https://keyboard-generator.tonypa.in/)
-- 🥖 [如果早知道，男生也會被登大人之平行宇宙](https://a-wei.tonypa.in/)
-- ...
+<pre>
+ _____ ___  _  ___   __  ___  _   ___
+|_   _/ _ \| \| \ \ / / | _ \/_\ |_ _|
+  | || (_) | .` |\ V /  |  _/ _ \ | |
+  |_| \___/|_|\_| |_|   |_|/_/ \_\___|
+
+I am the sum of my choices and my mistakes.
+
+tpai@github:~$ tree
+.
+├── 📁 <a href="https://tonypa.in/games/">Games I played</a>
+├── 🎮 <a href="https://tonypai.itch.io/">Games I made</a>
+├── 🃏 <a href="https://www.tonypa.in/dogedeck/">Doge Deck</a>
+├── 💬 <a href="https://idiomthon.tonypa.in">Idiomthon</a>
+├── 🐢 <a href="https://turtle-soup.tonypa.in">Turtle Soup</a>
+├── ⚾ <a href="https://throw-and-hit.tonypa.in">Throw and Hit</a>
+├── 🗺️ <a href="https://travel.tonypa.in/">Taiwan Travel Level</a>
+├── ⚡ <a href="https://keyboard-generator.tonypa.in/">Keyboard Generator</a>
+├── 🥖 <a href="https://a-wei.tonypa.in/">如果早知道，男生也會被登大人之平行宇宙</a>
+├── 🗿 <a href="https://tonypa.in/inukshuk/">Inukshuk</a>
+└── 🪞 <a href="https://tonypa.in/claude-build-day/">Mirror Dimension</a>
+</pre>
