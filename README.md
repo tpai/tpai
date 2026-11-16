@@ -7,5 +7,5 @@
 I am the sum of my choices and my mistakes.
 
 $ whoami
- <a href="https://tonypa.in/">https://tonypa.in/</a>
+<a href="https://tonypa.in/">https://tonypa.in/</a>
 </pre>
